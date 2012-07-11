@@ -1,24 +1,26 @@
-== a Blurgh!!
+Blog with Default Rails Stack!!
+==========
+
 [![Build Status](https://secure.travis-ci.org/HoustonRuby/blog-testunit.png?branch=master)](http://travis-ci.org/HoustonRuby/blog-testunit)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/HoustonRuby/blog-testunit)
 
 Created in July 2012 with the default Rails stack. No gems for you!
 
 Things we missed the most: Capybara
 
 Code Analysis
-=============
+----
 
 * Code Climate: [HoustonRuby/blog-testunit](https://codeclimate.com/github/HoustonRuby/blog-testunit)
 * Travis-ci: [HoustonRuby/blog-testuinit](http://travis-ci.org/#!/HoustonRuby/blog-testunit)
 
-Created By
-==========
+### Created By
+
 
 The Houston Ruby meetup!
 
 
-LICENSE:
-========
+### LICENSE:
 
 (The MIT License)
 

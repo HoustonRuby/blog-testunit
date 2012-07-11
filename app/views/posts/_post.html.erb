@@ -1,0 +1,7 @@
+<div class="post">
+	<h2 class="post_title"><%= post.title%></h2>
+	<div class="meta">
+		Posted: <%= distance_of_time_in_words post.created_at, Time.now%> ago
+	</div>
+	<div class="post_content"><%= post.content%></div>
+</div>

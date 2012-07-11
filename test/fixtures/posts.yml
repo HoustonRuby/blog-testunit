@@ -1,10 +1,10 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 
-one:
+content_post_one:
   title: "Title One"
   content: "Content One"
 
-two:
+content_post_two:
   title: "Title Two"
   content: "Content Two"

@@ -8,6 +8,11 @@ Created in July 2012 with the default Rails stack. No gems for you!
 
 Things we missed the most: Capybara
 
+Notes
+-----
+
+* We use an `assert_includes` in an integration test, so we can *only support Ruby 1.9.3*
+
 Code Analysis
 ----
 
@@ -15,7 +20,6 @@ Code Analysis
 * Travis-ci: [HoustonRuby/blog-testuinit](http://travis-ci.org/#!/HoustonRuby/blog-testunit)
 
 ### Created By
-
 
 The Houston Ruby meetup!
 
